@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-edit-1
-=======
-content-1
->>>>>>> branch-2-1
